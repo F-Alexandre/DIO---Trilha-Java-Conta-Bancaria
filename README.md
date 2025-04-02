@@ -37,8 +37,8 @@ Um projeto simples em Java que recebe informações bancárias via terminal e ex
 
     Baixe o projeto ou clone o repositório:
 
-git clone https://github.com/seu-usuario/ContaBanco.git
-cd ContaBanco
+git clone https://github.com/F-Alexandre/DIO---Trilha-Java-Conta-Bancaria
+cd DIO---Trilha-Java-Conta-Bancaria/ContaBanco
 
 Compile o código:
 

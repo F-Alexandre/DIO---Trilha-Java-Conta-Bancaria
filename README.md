@@ -49,8 +49,9 @@ Execute o programa:
 
     java Main
 
+Ou execute por uma  IDE 
+
     Insira os dados solicitados no terminal e veja a saída formatada.
-    Ou execute pela IDE 
 📌 Exemplo de Uso
 
 Por favor, digite o número da Agência!

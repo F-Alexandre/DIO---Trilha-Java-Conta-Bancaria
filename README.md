@@ -43,10 +43,11 @@ cd DIO---Trilha-Java-Conta-Bancaria/ContaBanco
 Compile o código:
 
 javac ContaTerminal.java
+javac Main.java
 
 Execute o programa:
 
-    java ContaTerminal
+    java Main
 
     Insira os dados solicitados no terminal e veja a saída formatada.
 

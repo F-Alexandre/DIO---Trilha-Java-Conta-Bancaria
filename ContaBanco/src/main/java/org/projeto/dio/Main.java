@@ -30,6 +30,9 @@ public class Main {
                 terminal.getAgencia() + ", conta " + terminal.getNumero() +
                 " e seu saldo " + terminal.getSaldo()
                 + " já está disponível para saque" + "\n");
+
+
+    entrada.close();
     }
 
 }
